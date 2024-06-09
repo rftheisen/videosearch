@@ -1,19 +1,19 @@
 [
     {
         "title": "Setting up a New Home Router & Testing Internet Connection Speeds",
-        "url": "https://youtu.be/AAy16fVQzOE?si=GhWuyRdXph4RIXCb",
+        "url": "https://youtube.com/embed/AAy16fVQzOE",
         "description": "In this video, learn how to set up a new home router provided by your ISP to resolve internet connectivity issues. Follow step-by-step instructions on disconnecting the old router-modem combo, connecting the new one, and activating it either through an app or by calling the ISP. The guide also includes tips on testing your internet speed and advice on dealing with outdated equipment and services from ISPs. Stay informed and ensure you get the best internet performance at home.",
         "tags": ["home router", "router","networking", "bandwidth", "network speed test", "isp"]
     },
     {
         "title": "Learn Network Segmentation using VLANs in Real Life",
-        "url": "https://youtu.be/JOyzKNUaQTo?si=H9cGpvDQh_lp2UJ2",
+        "url": "https://youtube.com/embed/JOyzKNUaQTo",
         "description": "In this video we start to discuss the importance of network segmentation using VLANs. I show how to quickly setup VLANs on a Cisco switch and then we test it.",
         "tags": ["segmentation", "networking","vlans", "trunking", "802.1q", "network security"]
     },
     {
         "title": "Everybody is a Genius",
-        "url": "https://youtu.be/7LAvTsm8pao?si=S02sSceHfT9Hv1Iw",
+        "url": "https://youtube.com/embed/7LAvTsm8pao",
         "description": "You have to discover your inner Genius through effort, belief and intense interest.",
         "tags": ["learning", "education","learning theory", "albert einstein", "belief", "motivation"]
     }
