@@ -11,13 +11,11 @@
         "url": "https://youtu.be/JOyzKNUaQTo?si=H9cGpvDQh_lp2UJ2",
         "description": "In this video we start to discuss the importance of network segmentation using VLANs. I show how to quickly setup VLANs on a Cisco switch and then we test it.",
         "tags": ["segmentation", "networking","vlans", "trunking", "802.1q", "network security"] 
-
     },
     {
         "title": "Everybody is a Genius"
         "url": "https://youtu.be/7LAvTsm8pao?si=S02sSceHfT9Hv1Iw",
         "description": "You have to discover your inner Genius through effort, belief and intense interest.",
         "tags": ["learning", "education","learning theory", "albert einstein", "belief", "motivation"] 
-
     }
 ]
