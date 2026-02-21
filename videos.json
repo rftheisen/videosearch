@@ -3,198 +3,2171 @@
         "title": "Setting up a New Home Router & Testing Internet Connection Speeds",
         "url": "https://youtube.com/embed/AAy16fVQzOE",
         "description": "In this video, learn how to set up a new home router provided by your ISP to resolve internet connectivity issues. Follow step-by-step instructions on disconnecting the old router-modem combo, connecting the new one, and activating it either through an app or by calling the ISP. The guide also includes tips on testing your internet speed and advice on dealing with outdated equipment and services from ISPs. Stay informed and ensure you get the best internet performance at home.",
-        "tags": ["home router", "router", "networking", "bandwidth", "network speed test", "isp"]
+        "tags": [
+            "home router",
+            "router",
+            "networking",
+            "bandwidth",
+            "network speed test",
+            "isp"
+        ]
     },
     {
         "title": "Learn Network Segmentation using VLANs in Real Life",
         "url": "https://youtube.com/embed/JOyzKNUaQTo",
         "description": "In this video we start to discuss the importance of network segmentation using VLANs. I show how to quickly setup VLANs on a Cisco switch and then we test it.",
-        "tags": ["segmentation", "networking", "vlans", "trunking", "802.1q", "network security"]
+        "tags": [
+            "segmentation",
+            "networking",
+            "vlans",
+            "trunking",
+            "802.1q",
+            "network security"
+        ]
     },
     {
         "title": "Everybody is a Genius",
         "url": "https://youtube.com/embed/7LAvTsm8pao",
         "description": "You have to discover your inner Genius through effort, belief and intense interest.",
-        "tags": ["learning", "education", "learning theory", "albert einstein", "belief", "motivation"]
+        "tags": [
+            "learning",
+            "education",
+            "learning theory",
+            "albert einstein",
+            "belief",
+            "motivation"
+        ]
     },
     {
         "title": "Hack The Box Synced: rsync Basics",
         "url": "https://youtube.com/embed/4XXLS6x7AdQ",
         "description": "A Beginner's Guide to Ethical Hacking and Cybersecurity - Completing Tier Zero. Bob returns to Hack The Box and continues his popular YouTube series covering rsync basics and file synchronization concepts.",
-        "tags": ["hack the box", "rsync", "cybersecurity", "ethical hacking", "beginner", "linux", "file transfer"]
+        "tags": [
+            "hack the box",
+            "rsync",
+            "cybersecurity",
+            "ethical hacking",
+            "beginner",
+            "linux",
+            "file transfer"
+        ]
     },
     {
         "title": "Teach Beginners! ANYONE can Learn IT & Cybersecurity!",
         "url": "https://youtube.com/embed/Q37FGoVDRRI",
         "description": "Teaching Beginners in Tech: The Importance and Approach. A discussion on the crucial need for educational content aimed at beginners in the tech industry, especially in fields like IT and cybersecurity.",
-        "tags": ["teaching", "education", "it career", "cybersecurity", "beginners", "learning"]
+        "tags": [
+            "teaching",
+            "education",
+            "it career",
+            "cybersecurity",
+            "beginners",
+            "learning"
+        ]
     },
     {
         "title": "MongoDB Insights: Exploring Database Vulnerabilities and Security on Hack The Box",
         "url": "https://youtube.com/embed/3kkzmUdGxk0",
         "description": "Beginner's Guide to Ethical Hacking: MongoDB Penetration Testing. We explore the MongoDB machine on Hack The Box, covering database vulnerabilities and security concepts.",
-        "tags": ["hack the box", "mongodb", "database", "penetration testing", "cybersecurity", "ethical hacking", "nosql"]
+        "tags": [
+            "hack the box",
+            "mongodb",
+            "database",
+            "penetration testing",
+            "cybersecurity",
+            "ethical hacking",
+            "nosql"
+        ]
     },
     {
         "title": "Hack The Box Beginner Friendly Certification Training the CJCA",
         "url": "https://youtube.com/embed/tf5Doo2gXCg",
         "description": "Introduction to HTB Certified Junior Cybersecurity Associate (CJCA) and Pathways. We explore the Hack The Box certification, what it covers, and how to prepare for it.",
-        "tags": ["hack the box", "cjca", "certification", "cybersecurity", "beginner", "training"]
+        "tags": [
+            "hack the box",
+            "cjca",
+            "certification",
+            "cybersecurity",
+            "beginner",
+            "training"
+        ]
     },
     {
         "title": "Human Made Music",
         "url": "https://youtube.com/embed/sgdkLlK8sN8",
-        "description": "Human Made Music by ltnbob — original hip hop music.",
-        "tags": ["music", "hiphop", "original music", "ltnbob"]
+        "description": "Human Made Music by ltnbob \u2014 original hip hop music.",
+        "tags": [
+            "music",
+            "hiphop",
+            "original music",
+            "ltnbob"
+        ]
     },
     {
         "title": "Not A Bot",
         "url": "https://youtube.com/embed/Q6MQq9MBUwY",
-        "description": "Not a Bot by ltnbob — original music.",
-        "tags": ["music", "hiphop", "original music", "ltnbob"]
+        "description": "Not a Bot by ltnbob \u2014 original music.",
+        "tags": [
+            "music",
+            "hiphop",
+            "original music",
+            "ltnbob"
+        ]
     },
     {
         "title": "Heartbeats in Steel",
         "url": "https://youtube.com/embed/RgOSqE9SnPs",
-        "description": "Heartbeats in Steel by ltnbob — original music.",
-        "tags": ["music", "hiphop", "original music", "ltnbob"]
+        "description": "Heartbeats in Steel by ltnbob \u2014 original music.",
+        "tags": [
+            "music",
+            "hiphop",
+            "original music",
+            "ltnbob"
+        ]
     },
     {
         "title": "Limitless Code",
         "url": "https://youtube.com/embed/Y-KPlDYGrZ8",
-        "description": "Limitless Code by ltnbob — original hip hop music.",
-        "tags": ["music", "hiphop", "original music", "ltnbob"]
+        "description": "Limitless Code by ltnbob \u2014 original hip hop music.",
+        "tags": [
+            "music",
+            "hiphop",
+            "original music",
+            "ltnbob"
+        ]
     },
     {
         "title": "Blueprint of the Divine",
         "url": "https://youtube.com/embed/Je-Sf8rSl74",
-        "description": "Blueprint of the Divine by ltnbob — original hip hop music.",
-        "tags": ["music", "hiphop", "original music", "ltnbob"]
+        "description": "Blueprint of the Divine by ltnbob \u2014 original hip hop music.",
+        "tags": [
+            "music",
+            "hiphop",
+            "original music",
+            "ltnbob"
+        ]
     },
     {
         "title": "Oxygen",
         "url": "https://youtube.com/embed/PK6MdhnXP4Y",
-        "description": "Oxygen by ltnbob — original hip hop music.",
-        "tags": ["music", "hiphop", "original music", "ltnbob"]
+        "description": "Oxygen by ltnbob \u2014 original hip hop music.",
+        "tags": [
+            "music",
+            "hiphop",
+            "original music",
+            "ltnbob"
+        ]
     },
     {
         "title": "God's Technology",
         "url": "https://youtube.com/embed/A8kE-KFDLyo",
-        "description": "God's Technology by ltnbob — original synthwave and hip hop music.",
-        "tags": ["music", "synthwave", "hiphop", "original music", "ltnbob"]
+        "description": "God's Technology by ltnbob \u2014 original synthwave and hip hop music.",
+        "tags": [
+            "music",
+            "synthwave",
+            "hiphop",
+            "original music",
+            "ltnbob"
+        ]
     },
     {
         "title": "\"I applied for 500 jobs before landing my first IT job\"",
         "url": "https://youtube.com/embed/8fBxPNCYxIo",
         "description": "How to Break into IT: Resume Tips and Career Advice. We celebrate a community member's success in landing an IT job and offer extensive guidance on crafting an effective resume and navigating the job search.",
-        "tags": ["it career", "job search", "resume", "interview", "career advice", "it jobs", "help desk"]
+        "tags": [
+            "it career",
+            "job search",
+            "resume",
+            "interview",
+            "career advice",
+            "it jobs",
+            "help desk"
+        ]
     },
     {
         "title": "\"How do I Securely Remote into my Home Lab?\"",
         "url": "https://youtube.com/embed/4NIgWuWZmPU",
         "description": "Secure Remote Access to Your Home Server Using TailScale and OpenVPN. Learn how to set up a VPN using TailScale and OpenVPN to securely access your home lab from anywhere.",
-        "tags": ["vpn", "remote access", "home lab", "tailscale", "openvpn", "networking", "security"]
+        "tags": [
+            "vpn",
+            "remote access",
+            "home lab",
+            "tailscale",
+            "openvpn",
+            "networking",
+            "security"
+        ]
     },
     {
         "title": "Learn Web App Basics and Dirbusting with Preignition on Hack The Box",
         "url": "https://youtube.com/embed/AlmTbWmFOWw",
         "description": "Dive into Web Application Testing with Directory Busting Using Gobuster. Using a Pwnbox (ParrotOS) and Hack The Box, we dive into automated tools like Gobuster to identify hidden web directories.",
-        "tags": ["hack the box", "web application", "dirbusting", "gobuster", "cybersecurity", "ethical hacking", "beginner"]
+        "tags": [
+            "hack the box",
+            "web application",
+            "dirbusting",
+            "gobuster",
+            "cybersecurity",
+            "ethical hacking",
+            "beginner"
+        ]
     },
     {
         "title": "Home IT Lab Rack for the Win!",
         "url": "https://youtube.com/embed/_rOzsB_hoBA",
         "description": "Building a High-Speed Home Lab: Networking & Equipment Integration. A detailed overview of a current home lab rack setup, explaining how to integrate networking equipment.",
-        "tags": ["home lab", "networking", "rack", "it setup", "hardware", "homelab"]
+        "tags": [
+            "home lab",
+            "networking",
+            "rack",
+            "it setup",
+            "hardware",
+            "homelab"
+        ]
     },
     {
         "title": "Beginner's Guide to Windows Exploitation: RDP and Network Protocols on Hack The Box",
         "url": "https://youtube.com/embed/XGWZ0WpfUOc",
         "description": "Windows Box 'Explosion' on Hack The Box | RDP, ICMP & Network Troubleshooting. Dive deep into a Windows box on Hack The Box and enhance your cybersecurity skills covering RDP and network protocols.",
-        "tags": ["hack the box", "windows", "rdp", "networking", "cybersecurity", "ethical hacking", "beginner"]
+        "tags": [
+            "hack the box",
+            "windows",
+            "rdp",
+            "networking",
+            "cybersecurity",
+            "ethical hacking",
+            "beginner"
+        ]
     },
     {
         "title": "Hacking with Grok for Beginners: Redeemer on Hack The Box",
         "url": "https://youtube.com/embed/pLnycQFU7zU",
         "description": "Hack the Box Walkthrough: Redeemer - Introduction to Redis. We cover the 'Redeemer' box on Hack The Box, a beginner-friendly challenge designed to introduce newcomers to Redis and cybersecurity.",
-        "tags": ["hack the box", "redis", "grok", "ai", "cybersecurity", "ethical hacking", "beginner"]
+        "tags": [
+            "hack the box",
+            "redis",
+            "grok",
+            "ai",
+            "cybersecurity",
+            "ethical hacking",
+            "beginner"
+        ]
     },
     {
         "title": "Grok is an Accelerator for Learning Tech Skills",
         "url": "https://youtube.com/embed/xV61Qh2tIWI",
         "description": "The Power of AI Tools in Learning and IT. A discussion on the transformative impact of AI tools like Grok, Claude, and ChatGPT on learning and productivity, particularly in information technology.",
-        "tags": ["ai", "grok", "learning", "it career", "productivity", "chatgpt", "claude", "artificial intelligence"]
+        "tags": [
+            "ai",
+            "grok",
+            "learning",
+            "it career",
+            "productivity",
+            "chatgpt",
+            "claude",
+            "artificial intelligence"
+        ]
     },
     {
         "title": "Pentesting Windows and File Shares (SMB) for Beginners using Hack The Box",
         "url": "https://youtube.com/embed/45hSRNS5za0",
         "description": "Exploring Windows Box 'Dancing' in Hack The Box: SMB Enumeration & Cybersecurity Insights. This episode covers SMB enumeration for both beginners and seasoned IT professionals.",
-        "tags": ["hack the box", "smb", "windows", "penetration testing", "cybersecurity", "ethical hacking", "beginner", "file shares"]
+        "tags": [
+            "hack the box",
+            "smb",
+            "windows",
+            "penetration testing",
+            "cybersecurity",
+            "ethical hacking",
+            "beginner",
+            "file shares"
+        ]
     },
     {
         "title": "\"Is the CCNA valuable in 2025?\"",
         "url": "https://youtube.com/embed/NFNMwx7gGQE",
         "description": "Navigating the IT World: Help Desk, CCNA, and Networking Fundamentals. A discussion on the common path to gaining IT experience through help desk roles and how certifications like the CCNA fit in.",
-        "tags": ["ccna", "networking", "certification", "it career", "cisco", "help desk"]
+        "tags": [
+            "ccna",
+            "networking",
+            "certification",
+            "it career",
+            "cisco",
+            "help desk"
+        ]
     },
     {
         "title": "\"I don't care about degrees and certifications\" - IT Hiring Manager",
         "url": "https://youtube.com/embed/63Q8JQwrjFQ",
         "description": "Breaking into Cybersecurity: Skills vs. Certifications. We explore the journey of breaking into the cybersecurity industry, emphasizing the importance of practical skills over formal credentials.",
-        "tags": ["it career", "cybersecurity", "certifications", "skills", "hiring", "career advice", "degrees"]
+        "tags": [
+            "it career",
+            "cybersecurity",
+            "certifications",
+            "skills",
+            "hiring",
+            "career advice",
+            "degrees"
+        ]
     },
     {
         "title": "Getting Started with Hack The Box: A Beginner's Guide to FTP and Pwnbox",
         "url": "https://youtube.com/embed/8BvIoONPcaY",
         "description": "A detailed walkthrough of using Hack The Box for beginners, focusing on the FTP protocol and Pwnbox. Learn the fundamentals of ethical hacking in a hands-on environment.",
-        "tags": ["hack the box", "ftp", "pwnbox", "cybersecurity", "ethical hacking", "beginner", "networking"]
+        "tags": [
+            "hack the box",
+            "ftp",
+            "pwnbox",
+            "cybersecurity",
+            "ethical hacking",
+            "beginner",
+            "networking"
+        ]
     },
     {
         "title": "Become Multi-Disciplinary",
         "url": "https://youtube.com/embed/wILcqfQfN4Y",
         "description": "Why Specializing in One Field Might Be Limiting Your Future. A discussion on the growing importance of being multidisciplinary in an ever-evolving job market.",
-        "tags": ["career", "learning", "multidisciplinary", "professional development", "skills", "mindset"]
+        "tags": [
+            "career",
+            "learning",
+            "multidisciplinary",
+            "professional development",
+            "skills",
+            "mindset"
+        ]
     },
     {
         "title": "Setting Up a GitLab Server on Ubuntu: For Beginners Understanding the Learning Process",
         "url": "https://youtube.com/embed/hQflTuxmhJs",
         "description": "A walkthrough of setting up a GitLab server on an Ubuntu VM from scratch using VMware. A great look at what the real learning process looks like for beginners.",
-        "tags": ["gitlab", "ubuntu", "linux", "server setup", "devops", "beginner", "vmware", "git"]
+        "tags": [
+            "gitlab",
+            "ubuntu",
+            "linux",
+            "server setup",
+            "devops",
+            "beginner",
+            "vmware",
+            "git"
+        ]
     },
     {
         "title": "Agency vs. Intelligence in Tech",
         "url": "https://youtube.com/embed/J4bOcWTe2WM",
         "description": "Embracing Agency in Tech: Overcoming Imposter Syndrome and Accelerating Your Growth. This video delves into the importance of agency over intelligence in the tech industry.",
-        "tags": ["mindset", "imposter syndrome", "tech career", "learning", "growth", "motivation"]
+        "tags": [
+            "mindset",
+            "imposter syndrome",
+            "tech career",
+            "learning",
+            "growth",
+            "motivation"
+        ]
     },
     {
         "title": "My Livestream and Home Lab Setup Tour (2025 Edition)",
         "url": "https://youtube.com/embed/tMUFzAJ-3ik",
         "description": "A detailed tour of a livestream setup and home lab in 2025, covering OBS for capturing gameplay and video, dual monitor setup, and tips for building your own streaming environment.",
-        "tags": ["home lab", "livestream", "obs", "setup tour", "streaming", "hardware", "homelab"]
+        "tags": [
+            "home lab",
+            "livestream",
+            "obs",
+            "setup tour",
+            "streaming",
+            "hardware",
+            "homelab"
+        ]
     },
     {
         "title": "Do you really want this?",
         "url": "https://youtube.com/embed/9qp8KLPlFhs",
         "description": "Learn Like Your Life Depends on It: The Key to Success in IT & Cybersecurity. A motivational video emphasizing the importance of continuous learning for personal and professional growth in tech.",
-        "tags": ["motivation", "it career", "cybersecurity", "learning", "mindset", "growth"]
+        "tags": [
+            "motivation",
+            "it career",
+            "cybersecurity",
+            "learning",
+            "mindset",
+            "growth"
+        ]
     },
     {
         "title": "Hack The Box CBBH Prep: Broken Access Control and Basic API Testing",
         "url": "https://youtube.com/embed/HWTUOlgWc20",
         "description": "OWASP Top 10 Challenge: Breaking 'To Do or Not To Do' on Hack the Box. A hands-on walkthrough of the Broken Access Control challenge from the OWASP Top 10 track, covering API testing techniques.",
-        "tags": ["hack the box", "owasp", "broken access control", "api testing", "cybersecurity", "cbbh", "web application"]
+        "tags": [
+            "hack the box",
+            "owasp",
+            "broken access control",
+            "api testing",
+            "cybersecurity",
+            "cbbh",
+            "web application"
+        ]
     },
     {
         "title": "Hack The Box CBBH Prep: XXE Injection and Security Misconfiguration",
         "url": "https://youtube.com/embed/Sx0W4EWgP_o",
         "description": "Mastering XML External Entity (XXE) Attacks: A Detailed Walkthrough. A deep dive into XXE attacks using the 'Baby Waffles Order' challenge on Hack The Box.",
-        "tags": ["hack the box", "xxe", "xml", "security misconfiguration", "owasp", "cybersecurity", "cbbh", "web application"]
+        "tags": [
+            "hack the box",
+            "xxe",
+            "xml",
+            "security misconfiguration",
+            "owasp",
+            "cybersecurity",
+            "cbbh",
+            "web application"
+        ]
     },
     {
         "title": "Hack The Box CBBH Prep: Security Misconfiguration",
         "url": "https://youtube.com/embed/FWEsbbABTSc",
         "description": "OWASP Top 10 Challenge: Exploiting Security Misconfigurations. A walkthrough of an OWASP Top 10 challenge focusing on security misconfigurations by exploiting a vulnerable application.",
-        "tags": ["hack the box", "security misconfiguration", "owasp", "cybersecurity", "cbbh", "web application", "ethical hacking"]
+        "tags": [
+            "hack the box",
+            "security misconfiguration",
+            "owasp",
+            "cybersecurity",
+            "cbbh",
+            "web application",
+            "ethical hacking"
+        ]
+    },
+    {
+        "title": "Hack The Box CBBH Prep: Identification and Authentication Failures",
+        "url": "https://youtube.com/embed/I2eAlDdMdJM",
+        "description": "Hack The Box: Navigating Baby Auth with Burp and Pwnbox. Deep dive into authentication failures challenge.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "authentication",
+            "burp suite",
+            "web security",
+            "cbbh",
+            "owasp"
+        ]
+    },
+    {
+        "title": "Hack The Box CBBH Prep: SQL Injection",
+        "url": "https://youtube.com/embed/rcB8Im4jIFo",
+        "description": "SQL injection techniques using a Docker-hosted Pwnbox environment. Login page SQL injection walkthrough.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "sql injection",
+            "web security",
+            "cbbh",
+            "docker",
+            "owasp"
+        ]
+    },
+    {
+        "title": "Hack The Box CBBH Prep: Studying Command Injection Attacks and RCE",
+        "url": "https://youtube.com/embed/gF0EgjE8JZA",
+        "description": "Exploring Command Injection and RCE with Hack The Box: Looking Glass. Command injection concepts and remote code execution.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "command injection",
+            "rce",
+            "web security",
+            "cbbh",
+            "owasp"
+        ]
+    },
+    {
+        "title": "An AI Art Magazine by Midjourney",
+        "url": "https://youtube.com/embed/TUJQrN1HQyc",
+        "description": "Exploring MidJourney's New Print Magazine for AI Art Enthusiasts.",
+        "tags": [
+            "ai",
+            "midjourney",
+            "ai art",
+            "artificial intelligence",
+            "generative ai",
+            "art"
+        ]
+    },
+    {
+        "title": "AI at Apple, NSA at OpenAI and Brain Streaming",
+        "url": "https://youtube.com/embed/E-7nTkpmS48",
+        "description": "The Faithful Technologist: Apple's AI Leap, Cybersecurity & More. First live edition covering AI and cybersecurity news.",
+        "tags": [
+            "ai",
+            "apple",
+            "openai",
+            "cybersecurity",
+            "artificial intelligence",
+            "tech news",
+            "nsa"
+        ]
+    },
+    {
+        "title": "Become the Lebron James of IT",
+        "url": "https://youtube.com/embed/w8txDQDAYVo",
+        "description": "Breaking into IT and Cybersecurity: Training Like an Athlete for Success.",
+        "tags": [
+            "it career",
+            "career advice",
+            "motivation",
+            "cybersecurity",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Confronting Burnout in IT & Cybersecurity",
+        "url": "https://youtube.com/embed/ppnQMo1LaUQ",
+        "description": "Overcoming Burnout: Strategies for Sustainable Success. Physical and mental challenges of burnout in tech.",
+        "tags": [
+            "it career",
+            "career advice",
+            "motivation",
+            "burnout",
+            "mental health",
+            "cybersecurity"
+        ]
+    },
+    {
+        "title": "Tour My IT Home Lab: Setup Ideas and Tips",
+        "url": "https://youtube.com/embed/bbgNV-FlgP4",
+        "description": "In-depth tour of an IT home lab with various components and tools.",
+        "tags": [
+            "home lab",
+            "it career",
+            "cybersecurity",
+            "networking",
+            "setup",
+            "tech tips"
+        ]
+    },
+    {
+        "title": "I Wrote the Video Game Pong in JavaScript but with a Twist",
+        "url": "https://youtube.com/embed/IXwzD3_8fb4",
+        "description": "Created a web-based game in JavaScript called PongLab.",
+        "tags": [
+            "javascript",
+            "programming",
+            "web development",
+            "game development",
+            "coding"
+        ]
+    },
+    {
+        "title": "Just Say \"I Don't Know\". Itll be easier to get help.",
+        "url": "https://youtube.com/embed/-aV7xi7SsiI",
+        "description": "In IT & Cybersecurity it's better to start with \"I don't know\" than pretending to know.",
+        "tags": [
+            "it career",
+            "career advice",
+            "motivation",
+            "cybersecurity",
+            "soft skills",
+            "beginner"
+        ]
+    },
+    {
+        "title": "How do we decide who controls AI weapon systems?",
+        "url": "https://youtube.com/embed/ucGrLhou6XY",
+        "description": "The Crucial Need for Safety and Ethics in Military AI Systems.",
+        "tags": [
+            "ai",
+            "artificial intelligence",
+            "ethics",
+            "cybersecurity",
+            "tech news",
+            "military"
+        ]
+    },
+    {
+        "title": "Protect Kids Online",
+        "url": "https://youtube.com/embed/F8Z4LLEsuw8",
+        "description": "The Dangers of Increasing Online Surveillance and Data Sharing.",
+        "tags": [
+            "cybersecurity",
+            "privacy",
+            "surveillance",
+            "online safety",
+            "kids",
+            "tech news"
+        ]
+    },
+    {
+        "title": "All you NEED to do is TRY! Being Stubborn Can Be Good.",
+        "url": "https://youtube.com/embed/aLtuSwhgrwU",
+        "description": "Sometimes all you need to do is try. Stories of what happens when no one else knows what to do.",
+        "tags": [
+            "it career",
+            "career advice",
+            "motivation",
+            "cybersecurity",
+            "soft skills"
+        ]
+    },
+    {
+        "title": "Did the Snowden Leaks matter? We seem to welcome more surveillance in 2024.",
+        "url": "https://youtube.com/embed/ATDCTZJKbOA",
+        "description": "Discussion of Edward Snowden's leak regarding mass surveillance programs and NSA internal spying.",
+        "tags": [
+            "cybersecurity",
+            "privacy",
+            "surveillance",
+            "nsa",
+            "tech news",
+            "snowden"
+        ]
+    },
+    {
+        "title": "Learn VLANs & Trunking on Cisco Switches in Real Life",
+        "url": "https://youtube.com/embed/y9jDfHW0MDI",
+        "description": "Setup a trunk link on a Cisco 2960 switch to illustrate network segmentation.",
+        "tags": [
+            "networking",
+            "cisco",
+            "vlan",
+            "trunking",
+            "ccna",
+            "network segmentation",
+            "switches"
+        ]
+    },
+    {
+        "title": "ChatGPT Actually RickRolled Me",
+        "url": "https://youtube.com/embed/R33TIt4WZqg",
+        "description": "ChatGPT is a pretty good prankster.",
+        "tags": [
+            "ai",
+            "chatgpt",
+            "openai",
+            "artificial intelligence",
+            "funny"
+        ]
+    },
+    {
+        "title": "NetworkChuck does a GREAT job!",
+        "url": "https://youtube.com/embed/9UafnNXKTww",
+        "description": "Shoutout to NetworkChuck for creating incredible educational content for tech.",
+        "tags": [
+            "networking",
+            "it career",
+            "education",
+            "content creation",
+            "motivation"
+        ]
+    },
+    {
+        "title": "I used to HATE video editing, Descript changed that!",
+        "url": "https://youtube.com/embed/vY6fcnYpDgI",
+        "description": "Descript is an AI powered video editor that makes editing videos seamless and fun.",
+        "tags": [
+            "ai",
+            "content creation",
+            "video editing",
+            "descript",
+            "tools"
+        ]
+    },
+    {
+        "title": "Apply for Cybersecurity Jobs using Hack The Box",
+        "url": "https://youtube.com/embed/tezVNStxZEk",
+        "description": "HTB Rank Matters. Hack The Box has a job board where players can apply for cybersecurity jobs.",
+        "tags": [
+            "hack the box",
+            "cybersecurity",
+            "it career",
+            "career advice",
+            "job search"
+        ]
+    },
+    {
+        "title": "Advice to Beginners learning on Hack The Box",
+        "url": "https://youtube.com/embed/Pw2yYujxNQc",
+        "description": "Beginner advice for Hack The Box. Consider using walkthroughs early in studies.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "beginner",
+            "career advice",
+            "penetration testing"
+        ]
+    },
+    {
+        "title": "Get MacOS Sonoma installed on an old Mac",
+        "url": "https://youtube.com/embed/q9zpbPu8VoM",
+        "description": "Learn how to get MacOS Sonoma running on an older vintage Mac.",
+        "tags": [
+            "macos",
+            "apple",
+            "tech tips",
+            "tutorial",
+            "software"
+        ]
+    },
+    {
+        "title": "Why does xcode only run on MacOS?",
+        "url": "https://youtube.com/embed/ksPFfl1H7iI",
+        "description": "Find out the most likely reason Apple only wants xcode running on MacOS.",
+        "tags": [
+            "macos",
+            "apple",
+            "xcode",
+            "programming",
+            "tech tips"
+        ]
+    },
+    {
+        "title": "Command & Control Freestyle Rap produced by @commandb",
+        "url": "https://youtube.com/embed/2RltgYinPYc",
+        "description": "Freestyle rap about Lateral Movement and Ethical hacking created during a live stream.",
+        "tags": [
+            "cybersecurity",
+            "ethical hacking",
+            "music",
+            "lateral movement",
+            "fun",
+            "live stream"
+        ]
+    },
+    {
+        "title": "Have you heard of Midjourney? The Best AI Art Generator.",
+        "url": "https://youtube.com/embed/uZYkyeK3zZg",
+        "description": "Discussion of MidJourney the best AI art generator and generative AI technology.",
+        "tags": [
+            "ai",
+            "midjourney",
+            "ai art",
+            "artificial intelligence",
+            "generative ai"
+        ]
+    },
+    {
+        "title": "My 4 year old son Spoke with ChatGPT",
+        "url": "https://youtube.com/embed/Y0cRnjmjQ8Q",
+        "description": "Son had a good conversation with ChatGPT. Discussion of GPT-4o.",
+        "tags": [
+            "ai",
+            "chatgpt",
+            "openai",
+            "gpt-4o",
+            "artificial intelligence"
+        ]
+    },
+    {
+        "title": "Why can't ChatGPT set reminders? OpenAI and Apple rumors",
+        "url": "https://youtube.com/embed/62b-QSiQNGE",
+        "description": "Will ChatGPT eventually have OS level access? OpenAI and Apple partnership rumors.",
+        "tags": [
+            "ai",
+            "chatgpt",
+            "openai",
+            "apple",
+            "artificial intelligence",
+            "tech news"
+        ]
+    },
+    {
+        "title": "GPT4o is going to change IT & Cybersecurity Education",
+        "url": "https://youtube.com/embed/lmES1I-_Cbs",
+        "description": "Key takeaways from OpenAI's Spring event revealing GPT-4o (omni) and its impact on education.",
+        "tags": [
+            "ai",
+            "chatgpt",
+            "openai",
+            "gpt-4o",
+            "artificial intelligence",
+            "education",
+            "cybersecurity"
+        ]
+    },
+    {
+        "title": "AI cant spell! Unless you YELL at it!",
+        "url": "https://youtube.com/embed/xjPXCOItyUU",
+        "description": "Being rude to AI seems to make it work better.",
+        "tags": [
+            "ai",
+            "chatgpt",
+            "openai",
+            "artificial intelligence",
+            "funny",
+            "prompt engineering"
+        ]
+    },
+    {
+        "title": "Have you ever considered teaching?",
+        "url": "https://youtube.com/embed/Z0Ut77-BM_A",
+        "description": "Reflection on teaching as a career option.",
+        "tags": [
+            "it career",
+            "career advice",
+            "education",
+            "motivation",
+            "teaching"
+        ]
+    },
+    {
+        "title": "This AI can make videos out of Images!",
+        "url": "https://youtube.com/embed/TGGvzQQX1zg",
+        "description": "Create an AI Generated Video from a Still Image Tutorial.",
+        "tags": [
+            "ai",
+            "ai art",
+            "artificial intelligence",
+            "generative ai",
+            "video",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Has Tech Education fallen off a cliff?",
+        "url": "https://youtube.com/embed/j14MzCu-VpI",
+        "description": "Bridging the Tech Gap: A Rally for AI Innovation in Public Education. Discussing disparities in compute resources.",
+        "tags": [
+            "ai",
+            "education",
+            "it career",
+            "tech news",
+            "artificial intelligence"
+        ]
+    },
+    {
+        "title": "Building Relationships in IT & Cybersecurity starts with Connecting the Dots",
+        "url": "https://youtube.com/embed/tKDS-f0-q7A",
+        "description": "Connecting job opportunities in IT & Cybersecurity to build long term relationships.",
+        "tags": [
+            "it career",
+            "career advice",
+            "cybersecurity",
+            "networking",
+            "motivation",
+            "soft skills"
+        ]
+    },
+    {
+        "title": "Help People Learn Their TECH!",
+        "url": "https://youtube.com/embed/eI4aO_ScYm4",
+        "description": "Tech skills can help less tech savvy people maximize the use of their technology.",
+        "tags": [
+            "it career",
+            "education",
+            "motivation",
+            "tech tips",
+            "teaching"
+        ]
+    },
+    {
+        "title": "How to Get PAID to go to school! Consider FAFSA!",
+        "url": "https://youtube.com/embed/CRHP-ytqExo",
+        "description": "You may qualify for scholarships and grants through FAFSA to go to college for free.",
+        "tags": [
+            "it career",
+            "career advice",
+            "education",
+            "college",
+            "scholarships",
+            "fafsa"
+        ]
+    },
+    {
+        "title": "Cybersecurity Conference at NASA's Kennedy Space Center",
+        "url": "https://youtube.com/embed/yAXB8aEY61I",
+        "description": "Hack Space Con 2024 IT & Cybersecurity conference at Kennedy Space Center.",
+        "tags": [
+            "cybersecurity",
+            "conference",
+            "it career",
+            "networking",
+            "nasa"
+        ]
+    },
+    {
+        "title": "Why I LOVE Ethical Hacking & Penetration Testing",
+        "url": "https://youtube.com/embed/5cxzsN-Za_8",
+        "description": "Ethical Hacking & Penetration Testing explanation and how to start learning.",
+        "tags": [
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "it career",
+            "beginner",
+            "career advice"
+        ]
+    },
+    {
+        "title": "No More Excuses Just Commit",
+        "url": "https://youtube.com/embed/-mYeHqJoovs",
+        "description": "Do you really want to get into IT & Cybersecurity? Invest your time and resources.",
+        "tags": [
+            "it career",
+            "career advice",
+            "motivation",
+            "cybersecurity",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Most Tech Founders went to College",
+        "url": "https://youtube.com/embed/sAzq3yy7hy0",
+        "description": "Discussion on whether college is a worthwhile investment for people looking to break into tech.",
+        "tags": [
+            "it career",
+            "career advice",
+            "education",
+            "college",
+            "motivation"
+        ]
+    },
+    {
+        "title": "IT is like Skateboarding....You will Fall",
+        "url": "https://youtube.com/embed/vm2i6G_hcBE",
+        "description": "Overcoming Fear in Skateboarding & Cyber Security Learning. Lots of mistakes are made in the process.",
+        "tags": [
+            "it career",
+            "career advice",
+            "motivation",
+            "cybersecurity",
+            "beginner",
+            "soft skills"
+        ]
+    },
+    {
+        "title": "Understanding VLANs: Setting Up and Configuring VLANs on a Cisco Device",
+        "url": "https://youtube.com/embed/-ATqQMqRw6Q",
+        "description": "Concept of VLANs, traditional VLANs setup and configuration on Cisco devices.",
+        "tags": [
+            "networking",
+            "cisco",
+            "vlan",
+            "ccna",
+            "network segmentation",
+            "switches",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Setting up an Ubuntu Linux Virtual Machine using VMware",
+        "url": "https://youtube.com/embed/2xP2Ra9AItU",
+        "description": "Comprehensive guide on setting up an Ubuntu virtual machine using VMware.",
+        "tags": [
+            "linux",
+            "ubuntu",
+            "vmware",
+            "virtual machine",
+            "tutorial",
+            "home lab"
+        ]
+    },
+    {
+        "title": "Are AI art companies STEALING!?",
+        "url": "https://youtube.com/embed/AdjSoUh9ros",
+        "description": "Discussion of controversy surrounding generative AI art and whether AI art companies steal from artists.",
+        "tags": [
+            "ai",
+            "ai art",
+            "artificial intelligence",
+            "generative ai",
+            "ethics",
+            "tech news"
+        ]
+    },
+    {
+        "title": "Seek God & Find Your Gifts..... the Gifts Money Can't Buy",
+        "url": "https://youtube.com/embed/9_137OMNFMw",
+        "description": "Importance of recognizing and using God-given spiritual gifts to serve others.",
+        "tags": [
+            "motivation",
+            "faith",
+            "personal development",
+            "soft skills"
+        ]
+    },
+    {
+        "title": "Techno, Lofi & Synthwave Mix to Focus, Study & Create",
+        "url": "https://youtube.com/embed/4DtE1U-PGzk",
+        "description": "Inspiring atmosphere with techno, lofi & synthwave music to relax, study & create.",
+        "tags": [
+            "music",
+            "lofi",
+            "synthwave",
+            "techno",
+            "study music",
+            "focus"
+        ]
+    },
+    {
+        "title": "Storage",
+        "url": "https://youtube.com/embed/OgqUz3mGX1Y",
+        "description": "Admire many ways that data is read and written.",
+        "tags": [
+            "hardware",
+            "storage",
+            "data",
+            "it fundamentals",
+            "tech"
+        ]
+    },
+    {
+        "title": "Control Your Computer with AI: Exploring the Self Operating Computer Framework",
+        "url": "https://youtube.com/embed/qvFJzSoX1Nw",
+        "description": "Demo of the Self Operating Computer Framework, an AI that manipulates computer OS.",
+        "tags": [
+            "ai",
+            "artificial intelligence",
+            "automation",
+            "tutorial",
+            "tech"
+        ]
+    },
+    {
+        "title": "A Conversation with ChatGPT - It's Getting Human-Like",
+        "url": "https://youtube.com/embed/12kKxAfGlEA",
+        "description": "Exploring OpenAI's ChatGPT and its newly integrated capabilities that feel more human-like.",
+        "tags": [
+            "ai",
+            "chatgpt",
+            "openai",
+            "artificial intelligence"
+        ]
+    },
+    {
+        "title": "Exploring Different Career Paths in Cybersecurity",
+        "url": "https://youtube.com/embed/HElNxSQ3Slc",
+        "description": "Second episode exploring how the cybersecurity industry functions and diversity of career paths.",
+        "tags": [
+            "cybersecurity",
+            "it career",
+            "career advice",
+            "beginner"
+        ]
+    },
+    {
+        "title": "How the Internet works! Learn Routing on a Local Area Network in Real Life",
+        "url": "https://youtube.com/embed/7o6-J2SO9hA",
+        "description": "Setting up a Cisco router and switch to demonstrate how routing works on a LAN.",
+        "tags": [
+            "networking",
+            "cisco",
+            "routing",
+            "lan",
+            "ccna",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "The Origins of Cybersecurity",
+        "url": "https://youtube.com/embed/JfINySkDKXE",
+        "description": "History of the word and industry Cybersecurity and the incidents behind its existence.",
+        "tags": [
+            "cybersecurity",
+            "history",
+            "it career",
+            "education"
+        ]
+    },
+    {
+        "title": "Setting up a Virtual Machine Linux Hacking Distribution for Hack The Box",
+        "url": "https://youtube.com/embed/hOvs5PtlMdk",
+        "description": "Installing and setting up a virtual machine using VMware Workstation Player for hacking.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "linux",
+            "vmware",
+            "virtual machine",
+            "kali linux",
+            "beginner"
+        ]
+    },
+    {
+        "title": "A Beginner's Guide to Learning Ethical Hacking with Meow in Starting Point on Hack The Box",
+        "url": "https://youtube.com/embed/W1VWcz6ewzw",
+        "description": "Hands-on ethical hacking with Hack The Box Starting Point machine Meow.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "beginner",
+            "starting point"
+        ]
+    },
+    {
+        "title": "A Beginner's Guide to Cybersecurity & Ethical Hacking using Hack The Box",
+        "url": "https://youtube.com/embed/pkD4XALQVrg",
+        "description": "Basics of the Hack The Box platform and ethical hacking for beginners.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Routing Demystified: Mastering the Basics and Decoding the Routing Table",
+        "url": "https://youtube.com/embed/-wu92_-72KQ",
+        "description": "Fundamentals of routing and decoding the routing table for CCNA and Net+.",
+        "tags": [
+            "networking",
+            "cisco",
+            "routing",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Interview with a Professional Hacker & Retired US Marine | Trey \"TreyCraf7\" Bilbrey",
+        "url": "https://youtube.com/embed/oZEF7xYF2r8",
+        "description": "Interview with professional computer hacker and retired US Marine Trey Bilbrey.",
+        "tags": [
+            "cybersecurity",
+            "ethical hacking",
+            "penetration testing",
+            "it career",
+            "interview"
+        ]
+    },
+    {
+        "title": "Are Computer Networking Skills Necessary in IT?",
+        "url": "https://youtube.com/embed/ahlJjudJD8o",
+        "description": "Discussion of whether networking skills are necessary to break into IT at a help desk level.",
+        "tags": [
+            "networking",
+            "it career",
+            "career advice",
+            "beginner",
+            "help desk"
+        ]
+    },
+    {
+        "title": "Overcoming Imposter Syndrome in IT & Cybersecurity",
+        "url": "https://youtube.com/embed/SOWv_IFJtJk",
+        "description": "Dealing with imposter syndrome in IT & Cybersecurity career.",
+        "tags": [
+            "it career",
+            "career advice",
+            "motivation",
+            "cybersecurity",
+            "soft skills",
+            "imposter syndrome"
+        ]
+    },
+    {
+        "title": "The Future of LTN Labs. 1000 Subscribers and Beyond. Made with AI.",
+        "url": "https://youtube.com/embed/9IHSmt6xpbk",
+        "description": "Celebrating 1000 subscribers and sharing the future vision for LTN Labs.",
+        "tags": [
+            "it career",
+            "motivation",
+            "ai",
+            "content creation",
+            "education"
+        ]
+    },
+    {
+        "title": "Should I Go to College for a Degree? Go For Far More! Quality Over Credential",
+        "url": "https://youtube.com/embed/8q_rhfm1HGw",
+        "description": "Perspective on IT & Cybersecurity degrees and quality over credential.",
+        "tags": [
+            "it career",
+            "career advice",
+            "education",
+            "college",
+            "cybersecurity"
+        ]
+    },
+    {
+        "title": "Learn How to Do Subnetting & VLSM the EASY Way!",
+        "url": "https://youtube.com/embed/WWgk2JL68UM",
+        "description": "IP addressing, Subnetting and VLSM easy method lesson 18 of the networking series.",
+        "tags": [
+            "networking",
+            "subnetting",
+            "vlsm",
+            "ip addressing",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Database Enumeration & SQL Injection with SQLMap through ProxyChains",
+        "url": "https://youtube.com/embed/EWNWWjLQjpk",
+        "description": "Working on Hack The Box Pandora machine using SQLMap through ProxyChains.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "sql injection",
+            "sqlmap",
+            "proxychains"
+        ]
+    },
+    {
+        "title": "How to Configure a Web Browser to Use a SOCKS Proxy (Foxy Proxy)",
+        "url": "https://youtube.com/embed/pao8Sdg-U28",
+        "description": "Configuring web browser to use SOCKS proxy using Foxy Proxy for Hack The Box Pandora.",
+        "tags": [
+            "hack the box",
+            "cybersecurity",
+            "proxy",
+            "foxy proxy",
+            "socks",
+            "penetration testing",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn SSH Dynamic Port Forwarding for Pivoting & Proxy Chaining!",
+        "url": "https://youtube.com/embed/0ZsDQNmEv18",
+        "description": "SSH Dynamic Port Forwarding for pivoting and proxy chaining on Hack The Box Pandora.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "ssh",
+            "pivoting",
+            "port forwarding"
+        ]
+    },
+    {
+        "title": "Land Your Dream Job: Break Into Cybersecurity with These Proven Tips!",
+        "url": "https://youtube.com/embed/0un568md-CE",
+        "description": "Comprehensive guide on launching a successful career in IT & Cybersecurity.",
+        "tags": [
+            "cybersecurity",
+            "it career",
+            "career advice",
+            "beginner",
+            "job search"
+        ]
+    },
+    {
+        "title": "Unlock Your Potential: Master the Art of Finishing What You Start!",
+        "url": "https://youtube.com/embed/JSNv8RzuLjE",
+        "description": "Dealing with unfinished projects and building momentum to complete tasks.",
+        "tags": [
+            "it career",
+            "motivation",
+            "soft skills",
+            "personal development",
+            "career advice"
+        ]
+    },
+    {
+        "title": "Master Binary to Decimal Conversion for Subnetting Mastery",
+        "url": "https://youtube.com/embed/bpJB5Mj_vfg",
+        "description": "Detailed lesson on binary to decimal conversion for subnetting, lesson 17 of networking series.",
+        "tags": [
+            "networking",
+            "subnetting",
+            "binary",
+            "ip addressing",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn IP Addressing and the IPv4 Address Structure",
+        "url": "https://youtube.com/embed/Oz9Dx8d1rBs",
+        "description": "IP addressing & subnetting process and IPv4 address structure, lesson 16 of networking series.",
+        "tags": [
+            "networking",
+            "ip addressing",
+            "ipv4",
+            "subnetting",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Fix Audio Sounding Like It is Louder on One Side",
+        "url": "https://youtube.com/embed/mkyBAH5ajIk",
+        "description": "Fix audio recording that sounds louder on one side using OBS open broadcaster settings.",
+        "tags": [
+            "obs",
+            "streaming",
+            "content creation",
+            "audio",
+            "tech tips",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Hack The Box Dante Pro Lab Review, Reflection and Resources",
+        "url": "https://youtube.com/embed/B-7kQUeplxw",
+        "description": "Review and reflection on finishing Hack The Box's Dante Pro Lab. Highly recommended.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "pro lab",
+            "dante"
+        ]
+    },
+    {
+        "title": "Top 5 Cybersecurity Blogs & Podcasts",
+        "url": "https://youtube.com/embed/VTOHAg6MEx8",
+        "description": "Favorite Cybersecurity Blogs & Podcasts in 2022.",
+        "tags": [
+            "cybersecurity",
+            "it career",
+            "education",
+            "resources",
+            "podcasts",
+            "blogs"
+        ]
+    },
+    {
+        "title": "Setup a PiHole on Ubuntu Linux as a Home Networking Project",
+        "url": "https://youtube.com/embed/VPuP22kV4AU",
+        "description": "Setting up PiHole on Ubuntu Linux as a home networking project, lesson 15 of networking series.",
+        "tags": [
+            "networking",
+            "linux",
+            "ubuntu",
+            "pihole",
+            "dns",
+            "home lab",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn how DNS Servers work on a Local Area Network in Real life",
+        "url": "https://youtube.com/embed/QycjUIm0RBE",
+        "description": "Working with a Windows Server 2019 based DNS server in real network environment, lesson 14.",
+        "tags": [
+            "networking",
+            "dns",
+            "windows server",
+            "lan",
+            "ccna",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn how DNS works on a Local Area Network in Real Life",
+        "url": "https://youtube.com/embed/9G6LTtBOv0s",
+        "description": "Working with DNS settings in real network environment using Windows 11 virtual machine, lesson 13.",
+        "tags": [
+            "networking",
+            "dns",
+            "windows",
+            "lan",
+            "ccna",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Sys Admin Camp meeting #4 | Work life balance and securing shared resources",
+        "url": "https://youtube.com/embed/saaLo7Kdhto",
+        "description": "Sys Admin Camp boot camp class focused on System Administration skills.",
+        "tags": [
+            "sysadmin",
+            "active directory",
+            "windows server",
+            "it career",
+            "education"
+        ]
+    },
+    {
+        "title": "Sys Admin Camp #2 continued further | Installing Windows 10 in VMware ESXI and home lab tour",
+        "url": "https://youtube.com/embed/rPNfeODQ9V0",
+        "description": "Sys Admin Camp boot camp with Windows 10 VMware ESXI installation and home lab tour.",
+        "tags": [
+            "sysadmin",
+            "windows",
+            "vmware",
+            "esxi",
+            "home lab",
+            "virtual machine",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Sys Admin Camp #2 continued | Active Directory install process and User creation",
+        "url": "https://youtube.com/embed/tpDzp6uDl6E",
+        "description": "Sys Admin Camp Active Directory installation process and user creation walkthrough.",
+        "tags": [
+            "sysadmin",
+            "active directory",
+            "windows server",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Sys Admin Camp #2 | Creating Users & Groups in Active Directory",
+        "url": "https://youtube.com/embed/pJeqxPAARDA",
+        "description": "Sys Admin Camp boot camp class creating users and groups in Active Directory.",
+        "tags": [
+            "sysadmin",
+            "active directory",
+            "windows server",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "How I setup for live streams",
+        "url": "https://youtube.com/embed/EKS3f-HIknE",
+        "description": "Behind the scenes of how to setup in a lab for live streaming software and hardware tools.",
+        "tags": [
+            "obs",
+            "streaming",
+            "content creation",
+            "home lab",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "HackTheBox Jerry explanation using Parrot OS, NMAP, MSFVenom and more",
+        "url": "https://youtube.com/embed/tTW13Bms0qw",
+        "description": "Walkthrough of rooting Jerry on HackTheBox using Pwnbox ParrotOS with NMAP and MSFVenom.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "nmap",
+            "metasploit",
+            "parrot os"
+        ]
+    },
+    {
+        "title": "Leadership, impacting change and addressing The Elephant in the Room",
+        "url": "https://youtube.com/embed/JMC-xvBi6BE",
+        "description": "Influencing change can be more important than technical ability in IT leadership.",
+        "tags": [
+            "it career",
+            "career advice",
+            "motivation",
+            "leadership",
+            "soft skills"
+        ]
+    },
+    {
+        "title": "CDPR Hack, Ransomware and APTs oh my",
+        "url": "https://youtube.com/embed/UcnIEL950ss",
+        "description": "Discussion of CDPR Hack, Ransomware and Advanced Persistent Threats targeting entire economies.",
+        "tags": [
+            "cybersecurity",
+            "ransomware",
+            "apt",
+            "hacking",
+            "tech news"
+        ]
+    },
+    {
+        "title": "HackTheBox Lame speedrun walkthrough without Metasploit",
+        "url": "https://youtube.com/embed/D1dUQKjBBHU",
+        "description": "Penetration testing speed run walkthrough on the Lame box on HackTheBox without Metasploit.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "ctf"
+        ]
+    },
+    {
+        "title": "Open Pentesting Practice | Walkthrough of Lame on HackTheBox without Metasploit",
+        "url": "https://youtube.com/embed/UDZS2kS17TU",
+        "description": "Open Pentesting Practice session successful engagement with Lame on HackTheBox.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "ctf"
+        ]
+    },
+    {
+        "title": "MSP Cybersecurity Training | APTLabs on HackTheBox",
+        "url": "https://youtube.com/embed/TTnU3svNoXw",
+        "description": "MSP Cybersecurity Training using APTLabs to help Managed Service Providers practice.",
+        "tags": [
+            "hack the box",
+            "ethical hacking",
+            "cybersecurity",
+            "penetration testing",
+            "msp",
+            "apt"
+        ]
+    },
+    {
+        "title": "Be yourself | be encouraged | keep learning",
+        "url": "https://youtube.com/embed/U3ccOyzza_0",
+        "description": "Personal reflection on accomplishments, paying off debt, and continuing to grow.",
+        "tags": [
+            "motivation",
+            "it career",
+            "personal development",
+            "soft skills"
+        ]
+    },
+    {
+        "title": "Welcome to LTN Labs",
+        "url": "https://youtube.com/embed/9Spvjr7krcw",
+        "description": "Welcome to the LTN Labs YouTube channel focused on empowering others through educational content.",
+        "tags": [
+            "it career",
+            "education",
+            "cybersecurity",
+            "motivation"
+        ]
+    },
+    {
+        "title": "Learn how DNS works on a LAN | Lesson 12",
+        "url": "https://youtube.com/embed/juJvB2-TOr8",
+        "description": "Lesson 12 of networking series: how DNS works using Packet Tracer to setup a domain name.",
+        "tags": [
+            "networking",
+            "dns",
+            "cisco",
+            "packet tracer",
+            "lan",
+            "ccna",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Its a bird, its a plane, its a drone running a DHCP server. IOT on the LAN",
+        "url": "https://youtube.com/embed/rD1A0KKlRBA",
+        "description": "Lesson 11: Internet of Things and DHCP server running on a Tello Drone.",
+        "tags": [
+            "networking",
+            "dhcp",
+            "iot",
+            "lan",
+            "ccna",
+            "drone",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn DHCP in real life on your home Local Area Network",
+        "url": "https://youtube.com/embed/czEV9NzzI5w",
+        "description": "Lesson 10: Evaluating home networks to discuss how DHCP works on a real LAN.",
+        "tags": [
+            "networking",
+            "dhcp",
+            "lan",
+            "ccna",
+            "home lab",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn how DHCP works in a Local Area Network",
+        "url": "https://youtube.com/embed/J7Ty-PezVSI",
+        "description": "Lesson 9: Dynamic Host Configuration Protocol (DHCP) in a LAN using Cisco Packet Tracer.",
+        "tags": [
+            "networking",
+            "dhcp",
+            "cisco",
+            "packet tracer",
+            "lan",
+            "ccna",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn how to share & secure files on a Local Area Network using a File Server",
+        "url": "https://youtube.com/embed/LEBDMFIN9lM",
+        "description": "Lesson 8: Sharing files between Windows 10 & MacOS preparing for a file server.",
+        "tags": [
+            "networking",
+            "file server",
+            "windows",
+            "lan",
+            "sysadmin",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn how to take remote control of a Computer on a Local Area Network",
+        "url": "https://youtube.com/embed/sadKkSSX48M",
+        "description": "Lesson 7: Taking remote control of a computer over the network using free software.",
+        "tags": [
+            "networking",
+            "remote desktop",
+            "lan",
+            "tutorial",
+            "sysadmin"
+        ]
+    },
+    {
+        "title": "How to make computers talk to each other! Learn how to Build a Local Area Network in Real Life",
+        "url": "https://youtube.com/embed/3L5WCxdIKmM",
+        "description": "Lesson 6: Building a Local Area Network and making computers communicate.",
+        "tags": [
+            "networking",
+            "lan",
+            "ccna",
+            "tutorial",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Learn how to build a Local Area Network",
+        "url": "https://youtube.com/embed/WWeSc9dpgw8",
+        "description": "Lesson 5: Concepts and steps required to build a simple Local Area Network.",
+        "tags": [
+            "networking",
+            "lan",
+            "ccna",
+            "tutorial",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Learn Computer Network Topologies using Draw.io",
+        "url": "https://youtube.com/embed/KOiKlqfYGzg",
+        "description": "Lesson 4: Using Draw.io to learn about Star & Mesh network topologies.",
+        "tags": [
+            "networking",
+            "network topology",
+            "ccna",
+            "tutorial",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Learn computer networking for free using a Network Simulator called Cisco Packet Tracer",
+        "url": "https://youtube.com/embed/5rFj5NMYGKY",
+        "description": "Lesson 3: Using Cisco Packet Tracer to start learning computer networking.",
+        "tags": [
+            "networking",
+            "cisco",
+            "packet tracer",
+            "ccna",
+            "tutorial",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Tips for Effective Learning Strategies in IT & Cybersecurity",
+        "url": "https://youtube.com/embed/QBE2__I4_PQ",
+        "description": "Lesson 2: Using social media to amplify your learning process in IT & Cybersecurity.",
+        "tags": [
+            "it career",
+            "education",
+            "career advice",
+            "cybersecurity",
+            "beginner",
+            "learning strategies"
+        ]
+    },
+    {
+        "title": "Learn Computer Networking Fundamentals to build a well rounded tech skillset",
+        "url": "https://youtube.com/embed/EMCR8_83yqM",
+        "description": "Welcome to Practical Networking Fundamentals course on computer networking.",
+        "tags": [
+            "networking",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Prepare for a career in Cybersecurity by learning more efficiently with HackTheBox Academy",
+        "url": "https://youtube.com/embed/CZZAzsPcO44",
+        "description": "Learning more efficiently using HackTheBox Academy for cybersecurity career prep.",
+        "tags": [
+            "hack the box",
+            "cybersecurity",
+            "it career",
+            "career advice",
+            "education",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Fix headphones not working through Blue Yeti USB Mic",
+        "url": "https://youtube.com/embed/69D7VyH7Sw8",
+        "description": "Fix an issue with headphones not working with a Blue Yeti or any USB mic.",
+        "tags": [
+            "audio",
+            "tech tips",
+            "obs",
+            "streaming",
+            "content creation",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Home Lab & Content Creation Studio idea",
+        "url": "https://youtube.com/embed/lJZgZzk9xMs",
+        "description": "Develop ideas for a home learning lab and content creation studio with low cost equipment.",
+        "tags": [
+            "home lab",
+            "content creation",
+            "it career",
+            "setup",
+            "tech tips"
+        ]
+    },
+    {
+        "title": "Fix Discord Javascript error in under 3 minutes",
+        "url": "https://youtube.com/embed/8qHLdKm3L5w",
+        "description": "Fix the Javascript error that displays when attempting to open Discord on Windows 10.",
+        "tags": [
+            "tech tips",
+            "discord",
+            "windows",
+            "javascript",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Automate Windows Security",
+        "url": "https://youtube.com/embed/2o6acUDNAPs",
+        "description": "Automating Windows security processes and configurations.",
+        "tags": [
+            "cybersecurity",
+            "windows",
+            "automation",
+            "sysadmin",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Building Drone content to LoFi",
+        "url": "https://youtube.com/embed/mhmxN5RHJ2U",
+        "description": "Developing Drones & Cybersecurity short course content creation to LoFi music.",
+        "tags": [
+            "music",
+            "lofi",
+            "content creation",
+            "cybersecurity",
+            "drone"
+        ]
+    },
+    {
+        "title": "Learn to Defend organizations by using Active Directory",
+        "url": "https://youtube.com/embed/wa_2ijBWjgM",
+        "description": "Joining a Windows system to a Domain to make it easier to defend and manage.",
+        "tags": [
+            "active directory",
+            "windows server",
+            "sysadmin",
+            "cybersecurity",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "HackTheBox is Cybersecurity Training that will blow your mind",
+        "url": "https://youtube.com/embed/orCgOCEY0ww",
+        "description": "Tour and discussion of the HackTheBox cybersecurity training platform.",
+        "tags": [
+            "hack the box",
+            "cybersecurity",
+            "ethical hacking",
+            "penetration testing",
+            "education",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Learn Active Directory & AWS Security by building a cloud hacking lab",
+        "url": "https://youtube.com/embed/PqozLzhGwVE",
+        "description": "Active Directory as a powerful cybersecurity tool and AWS security cloud hacking lab.",
+        "tags": [
+            "active directory",
+            "windows server",
+            "aws",
+            "cloud",
+            "cybersecurity",
+            "hacking",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Install MySQL server in the cloud (AWS)",
+        "url": "https://youtube.com/embed/9b8UdX9x520",
+        "description": "Process of installing MySQL server in a Windows Server instance on Amazon Web Services.",
+        "tags": [
+            "aws",
+            "cloud",
+            "mysql",
+            "windows server",
+            "database",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Windows Server 2019 Setup on AWS",
+        "url": "https://youtube.com/embed/rJ8W4jOLCDY",
+        "description": "Setting up a Windows Server 2019 instance on AWS.",
+        "tags": [
+            "aws",
+            "cloud",
+            "windows server",
+            "sysadmin",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn in the Cloud with AWS Educate",
+        "url": "https://youtube.com/embed/zspYjQ7KNnU",
+        "description": "Getting signed in and familiar with the AWS Educate interface.",
+        "tags": [
+            "aws",
+            "cloud",
+            "education",
+            "tutorial",
+            "beginner"
+        ]
+    },
+    {
+        "title": "How to pass Comptia Security + and other IT certifications",
+        "url": "https://youtube.com/embed/zKDeWLEqDpE",
+        "description": "Strategies and resources to pass Comptia Security+ SY0-501.",
+        "tags": [
+            "cybersecurity",
+            "comptia",
+            "security+",
+            "certification",
+            "it career",
+            "career advice"
+        ]
+    },
+    {
+        "title": "Improve your home wireless network with Ubiquiti",
+        "url": "https://youtube.com/embed/qfRH8Y1B85w",
+        "description": "Improving wireless network performance using Ubiquiti's AC Lite access point with step-by-step guide.",
+        "tags": [
+            "networking",
+            "wifi",
+            "ubiquiti",
+            "home lab",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "This Minecraft Map contains forbidden knowledge",
+        "url": "https://youtube.com/embed/uK8wUi_4XGk",
+        "description": "Exploring a Minecraft map that contains knowledge and writings illegal in some countries.",
+        "tags": [
+            "gaming",
+            "minecraft",
+            "censorship",
+            "tech news",
+            "privacy"
+        ]
+    },
+    {
+        "title": "The amazing world of Computer Networking",
+        "url": "https://youtube.com/embed/D_1CzTDAHWY",
+        "description": "Introduction to computer networking concepts for a Twitch show viewer.",
+        "tags": [
+            "networking",
+            "ccna",
+            "beginner",
+            "education",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "FLOOD: Forward.Looking.Opportunities.Daily",
+        "url": "https://youtube.com/embed/6B4q4jhULb8",
+        "description": "The virus is an opportunity to re-prioritize and gear up to launch full force into the next chapter.",
+        "tags": [
+            "motivation",
+            "personal development",
+            "it career",
+            "soft skills"
+        ]
+    },
+    {
+        "title": "A GIF is worth a million words - Using GIFs to Communicate",
+        "url": "https://youtube.com/embed/nHuq6jlnt6o",
+        "description": "Setup and use ScreentoGIF to create lightweight videos to enhance communications.",
+        "tags": [
+            "content creation",
+            "tools",
+            "tutorial",
+            "tech tips"
+        ]
+    },
+    {
+        "title": "How to install and connect to Linux Distros in AWS",
+        "url": "https://youtube.com/embed/PX3yLWDY7aw",
+        "description": "Walkthrough of installing and connecting to an Ubuntu Linux instance on AWS.",
+        "tags": [
+            "aws",
+            "cloud",
+            "linux",
+            "ubuntu",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Teaching Online & Becoming an Educational Content Creator",
+        "url": "https://youtube.com/embed/6o93tSqfb9s",
+        "description": "The Instructor's Guide to Teaching in Cyberspace series on setting up workspace for teaching online.",
+        "tags": [
+            "content creation",
+            "education",
+            "streaming",
+            "obs",
+            "teaching",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Remove your background in OBS",
+        "url": "https://youtube.com/embed/RLNjNdc0wjw",
+        "description": "Removing physical background in OBS using Chroma Key filter for streaming.",
+        "tags": [
+            "obs",
+            "streaming",
+            "content creation",
+            "tutorial",
+            "chroma key"
+        ]
+    },
+    {
+        "title": "What are you doing?",
+        "url": "https://youtube.com/embed/RmDu7JQvXyY",
+        "description": "Reflection on changing your trajectory for the better in just 4 minutes.",
+        "tags": [
+            "motivation",
+            "personal development",
+            "it career",
+            "soft skills"
+        ]
+    },
+    {
+        "title": "Start making video content in under 5 minutes",
+        "url": "https://youtube.com/embed/D7gZwP-srIo",
+        "description": "Simplifies the process of getting OBS setup to record video & audio for content creation.",
+        "tags": [
+            "obs",
+            "streaming",
+            "content creation",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Great tips & tools for teaching STEM online",
+        "url": "https://youtube.com/embed/zbnNqoB0iQ0",
+        "description": "Resources to use to teach and learn IT concepts online.",
+        "tags": [
+            "education",
+            "stem",
+            "content creation",
+            "teaching",
+            "tools"
+        ]
+    },
+    {
+        "title": "You need to know DNS",
+        "url": "https://youtube.com/embed/bRgUDO0MT40",
+        "description": "Practical concept behind the Domain Name System. Fundamental for CompTIA Net+ and CCNA.",
+        "tags": [
+            "networking",
+            "dns",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn about the HTTP message structure using Cisco Packet Tracer",
+        "url": "https://youtube.com/embed/t1ezO-5dNj8",
+        "description": "Hands-on with HTTP message structure using Cisco Packet Tracer for web client/server communication.",
+        "tags": [
+            "networking",
+            "http",
+            "cisco",
+            "packet tracer",
+            "ccna",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn about HTTP using Cisco Packet Tracer",
+        "url": "https://youtube.com/embed/wgJomvS7Mtg",
+        "description": "Web client and server communication over a network using Cisco Packet Tracer.",
+        "tags": [
+            "networking",
+            "http",
+            "cisco",
+            "packet tracer",
+            "ccna",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Hands-on with Client/Server: Web Clients and Web Servers",
+        "url": "https://youtube.com/embed/7B-oZjieMuU",
+        "description": "Hands-on with Client/Server relationship, Web Clients and Web Servers over the Internet.",
+        "tags": [
+            "networking",
+            "client server",
+            "http",
+            "ccna",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn how DHCP works w/DORA",
+        "url": "https://youtube.com/embed/W1iTnY7DQ-8",
+        "description": "Dynamic Host Configuration Protocol (DHCP) using DORA process. Fundamental for CompTIA Net+ and CCNA.",
+        "tags": [
+            "networking",
+            "dhcp",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Lemme have an IP - Learning DHCP",
+        "url": "https://youtube.com/embed/FrRQO4qbCh8",
+        "description": "Learning the Dynamic Host Configuration Protocol (DHCP). Fundamental for CompTIA Net+ and CCNA.",
+        "tags": [
+            "networking",
+            "dhcp",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Lets talk about the Client/Server relationship",
+        "url": "https://youtube.com/embed/KHkEluEo7zg",
+        "description": "Client/Server relationship in IT. Fundamental for CompTIA Net+ and CCNA.",
+        "tags": [
+            "networking",
+            "client server",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Learn how to use Cisco Packet Tracer",
+        "url": "https://youtube.com/embed/vZ88Fc65V4A",
+        "description": "Learning Computer Networking for free using Cisco Packet Tracer. Step by step guide.",
+        "tags": [
+            "networking",
+            "cisco",
+            "packet tracer",
+            "ccna",
+            "tutorial",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Learning Networking for free w/Network Simulators",
+        "url": "https://youtube.com/embed/yeI-9842dms",
+        "description": "Learning Networking using free Network Simulators for CompTIA and CCNA prep.",
+        "tags": [
+            "networking",
+            "cisco",
+            "packet tracer",
+            "ccna",
+            "comptia",
+            "tutorial",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Understanding ARP w/Oreo",
+        "url": "https://youtube.com/embed/q60Exad5JP8",
+        "description": "Address Resolution Protocol (ARP) using Cisco Packet Tracer. Fundamental for CompTIA Net+ and CCNA.",
+        "tags": [
+            "networking",
+            "arp",
+            "cisco",
+            "packet tracer",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Studying Ping and ICMP Continued",
+        "url": "https://youtube.com/embed/lSaO_d4XlIw",
+        "description": "Continue learning about Ping and ICMP using Cisco Packet Tracer. Fundamental for CompTIA and CCNA.",
+        "tags": [
+            "networking",
+            "ping",
+            "icmp",
+            "cisco",
+            "packet tracer",
+            "ccna",
+            "comptia",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Building a Local Area Network",
+        "url": "https://youtube.com/embed/LEqmuRe97IM",
+        "description": "Learn how to build a Local Area Network using Cisco Packet Tracer. Fundamental networking.",
+        "tags": [
+            "networking",
+            "lan",
+            "cisco",
+            "packet tracer",
+            "ccna",
+            "tutorial",
+            "beginner"
+        ]
+    },
+    {
+        "title": "Studying Ping and ICMP",
+        "url": "https://youtube.com/embed/rTHZrnHXgPA",
+        "description": "Learn about Ping and ICMP using Cisco Packet Tracer. Fundamental for CompTIA Net+ and CCNA.",
+        "tags": [
+            "networking",
+            "ping",
+            "icmp",
+            "cisco",
+            "packet tracer",
+            "ccna",
+            "comptia",
+            "net+",
+            "tutorial"
+        ]
+    },
+    {
+        "title": "Getting into Cybersecurity Careers with Mark Ciampa",
+        "url": "https://youtube.com/embed/DJC-OlJnutk",
+        "description": "Interview with world renowned author, educator and Cybersecurity expert Mark Ciampa on where to start.",
+        "tags": [
+            "cybersecurity",
+            "it career",
+            "career advice",
+            "interview",
+            "beginner",
+            "education"
+        ]
     }
 ]
