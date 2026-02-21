@@ -3,18 +3,198 @@
         "title": "Setting up a New Home Router & Testing Internet Connection Speeds",
         "url": "https://youtube.com/embed/AAy16fVQzOE",
         "description": "In this video, learn how to set up a new home router provided by your ISP to resolve internet connectivity issues. Follow step-by-step instructions on disconnecting the old router-modem combo, connecting the new one, and activating it either through an app or by calling the ISP. The guide also includes tips on testing your internet speed and advice on dealing with outdated equipment and services from ISPs. Stay informed and ensure you get the best internet performance at home.",
-        "tags": ["home router", "router","networking", "bandwidth", "network speed test", "isp"]
+        "tags": ["home router", "router", "networking", "bandwidth", "network speed test", "isp"]
     },
     {
         "title": "Learn Network Segmentation using VLANs in Real Life",
         "url": "https://youtube.com/embed/JOyzKNUaQTo",
         "description": "In this video we start to discuss the importance of network segmentation using VLANs. I show how to quickly setup VLANs on a Cisco switch and then we test it.",
-        "tags": ["segmentation", "networking","vlans", "trunking", "802.1q", "network security"]
+        "tags": ["segmentation", "networking", "vlans", "trunking", "802.1q", "network security"]
     },
     {
         "title": "Everybody is a Genius",
         "url": "https://youtube.com/embed/7LAvTsm8pao",
         "description": "You have to discover your inner Genius through effort, belief and intense interest.",
-        "tags": ["learning", "education","learning theory", "albert einstein", "belief", "motivation"]
+        "tags": ["learning", "education", "learning theory", "albert einstein", "belief", "motivation"]
+    },
+    {
+        "title": "Hack The Box Synced: rsync Basics",
+        "url": "https://youtube.com/embed/4XXLS6x7AdQ",
+        "description": "A Beginner's Guide to Ethical Hacking and Cybersecurity - Completing Tier Zero. Bob returns to Hack The Box and continues his popular YouTube series covering rsync basics and file synchronization concepts.",
+        "tags": ["hack the box", "rsync", "cybersecurity", "ethical hacking", "beginner", "linux", "file transfer"]
+    },
+    {
+        "title": "Teach Beginners! ANYONE can Learn IT & Cybersecurity!",
+        "url": "https://youtube.com/embed/Q37FGoVDRRI",
+        "description": "Teaching Beginners in Tech: The Importance and Approach. A discussion on the crucial need for educational content aimed at beginners in the tech industry, especially in fields like IT and cybersecurity.",
+        "tags": ["teaching", "education", "it career", "cybersecurity", "beginners", "learning"]
+    },
+    {
+        "title": "MongoDB Insights: Exploring Database Vulnerabilities and Security on Hack The Box",
+        "url": "https://youtube.com/embed/3kkzmUdGxk0",
+        "description": "Beginner's Guide to Ethical Hacking: MongoDB Penetration Testing. We explore the MongoDB machine on Hack The Box, covering database vulnerabilities and security concepts.",
+        "tags": ["hack the box", "mongodb", "database", "penetration testing", "cybersecurity", "ethical hacking", "nosql"]
+    },
+    {
+        "title": "Hack The Box Beginner Friendly Certification Training the CJCA",
+        "url": "https://youtube.com/embed/tf5Doo2gXCg",
+        "description": "Introduction to HTB Certified Junior Cybersecurity Associate (CJCA) and Pathways. We explore the Hack The Box certification, what it covers, and how to prepare for it.",
+        "tags": ["hack the box", "cjca", "certification", "cybersecurity", "beginner", "training"]
+    },
+    {
+        "title": "Human Made Music",
+        "url": "https://youtube.com/embed/sgdkLlK8sN8",
+        "description": "Human Made Music by ltnbob — original hip hop music.",
+        "tags": ["music", "hiphop", "original music", "ltnbob"]
+    },
+    {
+        "title": "Not A Bot",
+        "url": "https://youtube.com/embed/Q6MQq9MBUwY",
+        "description": "Not a Bot by ltnbob — original music.",
+        "tags": ["music", "hiphop", "original music", "ltnbob"]
+    },
+    {
+        "title": "Heartbeats in Steel",
+        "url": "https://youtube.com/embed/RgOSqE9SnPs",
+        "description": "Heartbeats in Steel by ltnbob — original music.",
+        "tags": ["music", "hiphop", "original music", "ltnbob"]
+    },
+    {
+        "title": "Limitless Code",
+        "url": "https://youtube.com/embed/Y-KPlDYGrZ8",
+        "description": "Limitless Code by ltnbob — original hip hop music.",
+        "tags": ["music", "hiphop", "original music", "ltnbob"]
+    },
+    {
+        "title": "Blueprint of the Divine",
+        "url": "https://youtube.com/embed/Je-Sf8rSl74",
+        "description": "Blueprint of the Divine by ltnbob — original hip hop music.",
+        "tags": ["music", "hiphop", "original music", "ltnbob"]
+    },
+    {
+        "title": "Oxygen",
+        "url": "https://youtube.com/embed/PK6MdhnXP4Y",
+        "description": "Oxygen by ltnbob — original hip hop music.",
+        "tags": ["music", "hiphop", "original music", "ltnbob"]
+    },
+    {
+        "title": "God's Technology",
+        "url": "https://youtube.com/embed/A8kE-KFDLyo",
+        "description": "God's Technology by ltnbob — original synthwave and hip hop music.",
+        "tags": ["music", "synthwave", "hiphop", "original music", "ltnbob"]
+    },
+    {
+        "title": "\"I applied for 500 jobs before landing my first IT job\"",
+        "url": "https://youtube.com/embed/8fBxPNCYxIo",
+        "description": "How to Break into IT: Resume Tips and Career Advice. We celebrate a community member's success in landing an IT job and offer extensive guidance on crafting an effective resume and navigating the job search.",
+        "tags": ["it career", "job search", "resume", "interview", "career advice", "it jobs", "help desk"]
+    },
+    {
+        "title": "\"How do I Securely Remote into my Home Lab?\"",
+        "url": "https://youtube.com/embed/4NIgWuWZmPU",
+        "description": "Secure Remote Access to Your Home Server Using TailScale and OpenVPN. Learn how to set up a VPN using TailScale and OpenVPN to securely access your home lab from anywhere.",
+        "tags": ["vpn", "remote access", "home lab", "tailscale", "openvpn", "networking", "security"]
+    },
+    {
+        "title": "Learn Web App Basics and Dirbusting with Preignition on Hack The Box",
+        "url": "https://youtube.com/embed/AlmTbWmFOWw",
+        "description": "Dive into Web Application Testing with Directory Busting Using Gobuster. Using a Pwnbox (ParrotOS) and Hack The Box, we dive into automated tools like Gobuster to identify hidden web directories.",
+        "tags": ["hack the box", "web application", "dirbusting", "gobuster", "cybersecurity", "ethical hacking", "beginner"]
+    },
+    {
+        "title": "Home IT Lab Rack for the Win!",
+        "url": "https://youtube.com/embed/_rOzsB_hoBA",
+        "description": "Building a High-Speed Home Lab: Networking & Equipment Integration. A detailed overview of a current home lab rack setup, explaining how to integrate networking equipment.",
+        "tags": ["home lab", "networking", "rack", "it setup", "hardware", "homelab"]
+    },
+    {
+        "title": "Beginner's Guide to Windows Exploitation: RDP and Network Protocols on Hack The Box",
+        "url": "https://youtube.com/embed/XGWZ0WpfUOc",
+        "description": "Windows Box 'Explosion' on Hack The Box | RDP, ICMP & Network Troubleshooting. Dive deep into a Windows box on Hack The Box and enhance your cybersecurity skills covering RDP and network protocols.",
+        "tags": ["hack the box", "windows", "rdp", "networking", "cybersecurity", "ethical hacking", "beginner"]
+    },
+    {
+        "title": "Hacking with Grok for Beginners: Redeemer on Hack The Box",
+        "url": "https://youtube.com/embed/pLnycQFU7zU",
+        "description": "Hack the Box Walkthrough: Redeemer - Introduction to Redis. We cover the 'Redeemer' box on Hack The Box, a beginner-friendly challenge designed to introduce newcomers to Redis and cybersecurity.",
+        "tags": ["hack the box", "redis", "grok", "ai", "cybersecurity", "ethical hacking", "beginner"]
+    },
+    {
+        "title": "Grok is an Accelerator for Learning Tech Skills",
+        "url": "https://youtube.com/embed/xV61Qh2tIWI",
+        "description": "The Power of AI Tools in Learning and IT. A discussion on the transformative impact of AI tools like Grok, Claude, and ChatGPT on learning and productivity, particularly in information technology.",
+        "tags": ["ai", "grok", "learning", "it career", "productivity", "chatgpt", "claude", "artificial intelligence"]
+    },
+    {
+        "title": "Pentesting Windows and File Shares (SMB) for Beginners using Hack The Box",
+        "url": "https://youtube.com/embed/45hSRNS5za0",
+        "description": "Exploring Windows Box 'Dancing' in Hack The Box: SMB Enumeration & Cybersecurity Insights. This episode covers SMB enumeration for both beginners and seasoned IT professionals.",
+        "tags": ["hack the box", "smb", "windows", "penetration testing", "cybersecurity", "ethical hacking", "beginner", "file shares"]
+    },
+    {
+        "title": "\"Is the CCNA valuable in 2025?\"",
+        "url": "https://youtube.com/embed/NFNMwx7gGQE",
+        "description": "Navigating the IT World: Help Desk, CCNA, and Networking Fundamentals. A discussion on the common path to gaining IT experience through help desk roles and how certifications like the CCNA fit in.",
+        "tags": ["ccna", "networking", "certification", "it career", "cisco", "help desk"]
+    },
+    {
+        "title": "\"I don't care about degrees and certifications\" - IT Hiring Manager",
+        "url": "https://youtube.com/embed/63Q8JQwrjFQ",
+        "description": "Breaking into Cybersecurity: Skills vs. Certifications. We explore the journey of breaking into the cybersecurity industry, emphasizing the importance of practical skills over formal credentials.",
+        "tags": ["it career", "cybersecurity", "certifications", "skills", "hiring", "career advice", "degrees"]
+    },
+    {
+        "title": "Getting Started with Hack The Box: A Beginner's Guide to FTP and Pwnbox",
+        "url": "https://youtube.com/embed/8BvIoONPcaY",
+        "description": "A detailed walkthrough of using Hack The Box for beginners, focusing on the FTP protocol and Pwnbox. Learn the fundamentals of ethical hacking in a hands-on environment.",
+        "tags": ["hack the box", "ftp", "pwnbox", "cybersecurity", "ethical hacking", "beginner", "networking"]
+    },
+    {
+        "title": "Become Multi-Disciplinary",
+        "url": "https://youtube.com/embed/wILcqfQfN4Y",
+        "description": "Why Specializing in One Field Might Be Limiting Your Future. A discussion on the growing importance of being multidisciplinary in an ever-evolving job market.",
+        "tags": ["career", "learning", "multidisciplinary", "professional development", "skills", "mindset"]
+    },
+    {
+        "title": "Setting Up a GitLab Server on Ubuntu: For Beginners Understanding the Learning Process",
+        "url": "https://youtube.com/embed/hQflTuxmhJs",
+        "description": "A walkthrough of setting up a GitLab server on an Ubuntu VM from scratch using VMware. A great look at what the real learning process looks like for beginners.",
+        "tags": ["gitlab", "ubuntu", "linux", "server setup", "devops", "beginner", "vmware", "git"]
+    },
+    {
+        "title": "Agency vs. Intelligence in Tech",
+        "url": "https://youtube.com/embed/J4bOcWTe2WM",
+        "description": "Embracing Agency in Tech: Overcoming Imposter Syndrome and Accelerating Your Growth. This video delves into the importance of agency over intelligence in the tech industry.",
+        "tags": ["mindset", "imposter syndrome", "tech career", "learning", "growth", "motivation"]
+    },
+    {
+        "title": "My Livestream and Home Lab Setup Tour (2025 Edition)",
+        "url": "https://youtube.com/embed/tMUFzAJ-3ik",
+        "description": "A detailed tour of a livestream setup and home lab in 2025, covering OBS for capturing gameplay and video, dual monitor setup, and tips for building your own streaming environment.",
+        "tags": ["home lab", "livestream", "obs", "setup tour", "streaming", "hardware", "homelab"]
+    },
+    {
+        "title": "Do you really want this?",
+        "url": "https://youtube.com/embed/9qp8KLPlFhs",
+        "description": "Learn Like Your Life Depends on It: The Key to Success in IT & Cybersecurity. A motivational video emphasizing the importance of continuous learning for personal and professional growth in tech.",
+        "tags": ["motivation", "it career", "cybersecurity", "learning", "mindset", "growth"]
+    },
+    {
+        "title": "Hack The Box CBBH Prep: Broken Access Control and Basic API Testing",
+        "url": "https://youtube.com/embed/HWTUOlgWc20",
+        "description": "OWASP Top 10 Challenge: Breaking 'To Do or Not To Do' on Hack the Box. A hands-on walkthrough of the Broken Access Control challenge from the OWASP Top 10 track, covering API testing techniques.",
+        "tags": ["hack the box", "owasp", "broken access control", "api testing", "cybersecurity", "cbbh", "web application"]
+    },
+    {
+        "title": "Hack The Box CBBH Prep: XXE Injection and Security Misconfiguration",
+        "url": "https://youtube.com/embed/Sx0W4EWgP_o",
+        "description": "Mastering XML External Entity (XXE) Attacks: A Detailed Walkthrough. A deep dive into XXE attacks using the 'Baby Waffles Order' challenge on Hack The Box.",
+        "tags": ["hack the box", "xxe", "xml", "security misconfiguration", "owasp", "cybersecurity", "cbbh", "web application"]
+    },
+    {
+        "title": "Hack The Box CBBH Prep: Security Misconfiguration",
+        "url": "https://youtube.com/embed/FWEsbbABTSc",
+        "description": "OWASP Top 10 Challenge: Exploiting Security Misconfigurations. A walkthrough of an OWASP Top 10 challenge focusing on security misconfigurations by exploiting a vulnerable application.",
+        "tags": ["hack the box", "security misconfiguration", "owasp", "cybersecurity", "cbbh", "web application", "ethical hacking"]
     }
 ]
