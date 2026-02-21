@@ -121,9 +121,51 @@ h1 {
 
 iframe {
   width: 100%;
-  height: 315px;
+  aspect-ratio: 16 / 9;
   border: none;
   border-radius: 10px;
+  display: block;
+}
+
+/* Thumbnail lazy-load */
+.thumbnail-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  cursor: pointer;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #000;
+}
+
+.thumbnail-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: opacity 0.2s;
+}
+
+.thumbnail-wrapper:hover img {
+  opacity: 0.75;
+}
+
+.play-btn {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.play-btn svg {
+  filter: drop-shadow(0 2px 8px rgba(0,0,0,0.6));
+  transition: transform 0.2s;
+}
+
+.thumbnail-wrapper:hover .play-btn svg {
+  transform: scale(1.15);
 }
 
 /* Dark mode toggle */

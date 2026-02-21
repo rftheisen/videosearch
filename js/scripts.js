@@ -17,6 +17,39 @@ async function init() {
   setupDarkModeToggle();
 }
 
+function getVideoId(url) {
+  return url.split('/embed/')[1]?.split('?')[0];
+}
+
+function createThumbnail(video) {
+  const videoId = getVideoId(video.url);
+  const wrapper = document.createElement('div');
+  wrapper.classList.add('thumbnail-wrapper');
+
+  const img = document.createElement('img');
+  img.src = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+  img.alt = video.title;
+  img.loading = 'lazy';
+
+  const playBtn = document.createElement('div');
+  playBtn.classList.add('play-btn');
+  playBtn.innerHTML = `<svg viewBox="0 0 24 24" fill="white" width="48" height="48"><path d="M8 5v14l11-7z"/></svg>`;
+
+  wrapper.appendChild(img);
+  wrapper.appendChild(playBtn);
+
+  wrapper.addEventListener('click', () => {
+    const iframe = document.createElement('iframe');
+    iframe.src = `${video.url}?autoplay=1`;
+    iframe.title = video.title;
+    iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+    iframe.allowFullscreen = true;
+    wrapper.replaceWith(iframe);
+  });
+
+  return wrapper;
+}
+
 function displayVideos(videosToDisplay) {
   const videoGallery = document.getElementById('video-gallery');
   videoGallery.innerHTML = '';
@@ -25,12 +58,6 @@ function displayVideos(videosToDisplay) {
     const videoDiv = document.createElement('div');
     videoDiv.classList.add('video');
 
-    const iframe = document.createElement('iframe');
-    iframe.src = video.url;
-    iframe.title = video.title;
-    iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
-    iframe.allowFullscreen = true;
-
     const title = document.createElement('h3');
     title.innerText = video.title;
 
@@ -38,7 +65,7 @@ function displayVideos(videosToDisplay) {
     description.innerText = video.description;
 
     videoDiv.appendChild(title);
-    videoDiv.appendChild(iframe);
+    videoDiv.appendChild(createThumbnail(video));
     videoDiv.appendChild(description);
     videoGallery.appendChild(videoDiv);
   });
