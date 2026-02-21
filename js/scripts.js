@@ -1,6 +1,7 @@
 const PAGE_SIZE = 24;
 let currentVideos = [];
 let currentPage = 0;
+let allVideos = [];
 
 async function fetchVideos() {
   try {
@@ -14,13 +15,14 @@ async function fetchVideos() {
 }
 
 async function init() {
-  const videos = await fetchVideos();
-  currentVideos = videos;
+  allVideos = await fetchVideos();
+  currentVideos = allVideos;
   currentPage = 0;
   renderPage(true);
-  updateCount(videos.length, videos.length);
-  setupSearch(videos);
+  updateCount(allVideos.length, allVideos.length);
+  setupSearch(allVideos);
   setupDarkModeToggle();
+  setupScrollToTop();
 }
 
 function getVideoId(url) {
@@ -72,6 +74,47 @@ function createVideoCard(video) {
   return videoDiv;
 }
 
+function getPopularTags(videos, n = 10) {
+  const counts = {};
+  videos.forEach(v => v.tags.forEach(t => { counts[t] = (counts[t] || 0) + 1; }));
+  return Object.entries(counts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, n)
+    .map(([tag]) => tag);
+}
+
+function showEmptyState(query) {
+  const gallery = document.getElementById('video-gallery');
+  const loadMoreBtn = document.getElementById('load-more');
+  if (loadMoreBtn) loadMoreBtn.style.display = 'none';
+
+  const popularTags = getPopularTags(allVideos);
+
+  const tagPills = popularTags.map(tag =>
+    `<button class="tag-pill" onclick="applyTag('${tag}')">${tag}</button>`
+  ).join('');
+
+  gallery.innerHTML = `
+    <div class="empty-state">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="48" height="48">
+        <circle cx="11" cy="11" r="8"/>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        <line x1="8" y1="8" x2="14" y2="14"/>
+        <line x1="14" y1="8" x2="8" y2="14"/>
+      </svg>
+      <p class="empty-title">No videos found for "<strong>${query}</strong>"</p>
+      <p class="empty-subtitle">Try one of these popular topics:</p>
+      <div class="tag-pills">${tagPills}</div>
+    </div>
+  `;
+}
+
+function applyTag(tag) {
+  const searchInput = document.getElementById('search-input');
+  searchInput.value = tag;
+  searchInput.dispatchEvent(new Event('input'));
+}
+
 function renderPage(reset = false) {
   const gallery = document.getElementById('video-gallery');
   const loadMoreBtn = document.getElementById('load-more');
@@ -99,9 +142,13 @@ function renderPage(reset = false) {
   }
 }
 
-function displayVideos(videosToDisplay) {
+function displayVideos(videosToDisplay, query = '') {
   currentVideos = videosToDisplay;
-  renderPage(true);
+  if (videosToDisplay.length === 0 && query) {
+    showEmptyState(query);
+  } else {
+    renderPage(true);
+  }
 }
 
 function updateCount(shown, total) {
@@ -109,6 +156,8 @@ function updateCount(shown, total) {
   if (!countEl) return;
   if (shown === total) {
     countEl.textContent = `${total} videos`;
+  } else if (shown === 0) {
+    countEl.textContent = '';
   } else {
     countEl.textContent = `${shown} of ${total} videos`;
   }
@@ -134,7 +183,7 @@ function setupSearch(videos) {
   const searchInput = document.getElementById('search-input');
   const handleSearch = debounce((query) => {
     const filtered = searchVideos(query, videos);
-    displayVideos(filtered);
+    displayVideos(filtered, query);
     updateCount(filtered.length, videos.length);
   }, 150);
 
@@ -154,6 +203,14 @@ function setupDarkModeToggle() {
     document.body.classList.toggle('dark-mode', isDark);
     localStorage.setItem('darkMode', isDark);
   });
+}
+
+function setupScrollToTop() {
+  const btn = document.getElementById('scroll-top');
+  window.addEventListener('scroll', () => {
+    btn.classList.toggle('visible', window.scrollY > 400);
+  });
+  btn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 }
 
 document.getElementById('load-more').addEventListener('click', () => renderPage(false));
