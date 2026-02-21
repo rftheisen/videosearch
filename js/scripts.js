@@ -1,3 +1,7 @@
+const PAGE_SIZE = 24;
+let currentVideos = [];
+let currentPage = 0;
+
 async function fetchVideos() {
   try {
     const response = await fetch('videos.json');
@@ -11,7 +15,9 @@ async function fetchVideos() {
 
 async function init() {
   const videos = await fetchVideos();
-  displayVideos(videos);
+  currentVideos = videos;
+  currentPage = 0;
+  renderPage(true);
   updateCount(videos.length, videos.length);
   setupSearch(videos);
   setupDarkModeToggle();
@@ -27,7 +33,7 @@ function createThumbnail(video) {
   wrapper.classList.add('thumbnail-wrapper');
 
   const img = document.createElement('img');
-  img.src = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+  img.src = `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`;
   img.alt = video.title;
   img.loading = 'lazy';
 
@@ -50,25 +56,52 @@ function createThumbnail(video) {
   return wrapper;
 }
 
+function createVideoCard(video) {
+  const videoDiv = document.createElement('div');
+  videoDiv.classList.add('video');
+
+  const title = document.createElement('h3');
+  title.innerText = video.title;
+
+  const description = document.createElement('p');
+  description.innerText = video.description;
+
+  videoDiv.appendChild(title);
+  videoDiv.appendChild(createThumbnail(video));
+  videoDiv.appendChild(description);
+  return videoDiv;
+}
+
+function renderPage(reset = false) {
+  const gallery = document.getElementById('video-gallery');
+  const loadMoreBtn = document.getElementById('load-more');
+
+  if (reset) {
+    gallery.innerHTML = '';
+    currentPage = 0;
+  }
+
+  const start = currentPage * PAGE_SIZE;
+  const slice = currentVideos.slice(start, start + PAGE_SIZE);
+
+  slice.forEach(video => gallery.appendChild(createVideoCard(video)));
+  currentPage++;
+
+  const totalShown = Math.min(currentPage * PAGE_SIZE, currentVideos.length);
+  const hasMore = totalShown < currentVideos.length;
+
+  if (loadMoreBtn) {
+    loadMoreBtn.style.display = hasMore ? 'block' : 'none';
+    if (hasMore) {
+      const remaining = currentVideos.length - totalShown;
+      loadMoreBtn.textContent = `Load more (${remaining} remaining)`;
+    }
+  }
+}
+
 function displayVideos(videosToDisplay) {
-  const videoGallery = document.getElementById('video-gallery');
-  videoGallery.innerHTML = '';
-
-  videosToDisplay.forEach(video => {
-    const videoDiv = document.createElement('div');
-    videoDiv.classList.add('video');
-
-    const title = document.createElement('h3');
-    title.innerText = video.title;
-
-    const description = document.createElement('p');
-    description.innerText = video.description;
-
-    videoDiv.appendChild(title);
-    videoDiv.appendChild(createThumbnail(video));
-    videoDiv.appendChild(description);
-    videoGallery.appendChild(videoDiv);
-  });
+  currentVideos = videosToDisplay;
+  renderPage(true);
 }
 
 function updateCount(shown, total) {
@@ -82,12 +115,11 @@ function updateCount(shown, total) {
 }
 
 function searchVideos(query, videos) {
-  const filtered = videos.filter(video => {
-    return video.title.toLowerCase().includes(query.toLowerCase()) ||
-           video.description.toLowerCase().includes(query.toLowerCase()) ||
-           video.tags.some(tag => tag.toLowerCase().includes(query.toLowerCase()));
-  });
-  return filtered;
+  return videos.filter(video =>
+    video.title.toLowerCase().includes(query.toLowerCase()) ||
+    video.description.toLowerCase().includes(query.toLowerCase()) ||
+    video.tags.some(tag => tag.toLowerCase().includes(query.toLowerCase()))
+  );
 }
 
 function debounce(fn, delay) {
@@ -101,20 +133,17 @@ function debounce(fn, delay) {
 function setupSearch(videos) {
   const searchInput = document.getElementById('search-input');
   const handleSearch = debounce((query) => {
-    const filteredVideos = searchVideos(query, videos);
-    displayVideos(filteredVideos);
-    updateCount(filteredVideos.length, videos.length);
+    const filtered = searchVideos(query, videos);
+    displayVideos(filtered);
+    updateCount(filtered.length, videos.length);
   }, 150);
 
-  searchInput.addEventListener('input', () => {
-    handleSearch(searchInput.value);
-  });
+  searchInput.addEventListener('input', () => handleSearch(searchInput.value));
 }
 
 function setupDarkModeToggle() {
   const toggle = document.getElementById('dark-mode-toggle');
 
-  // Restore saved preference
   if (localStorage.getItem('darkMode') === 'true') {
     document.body.classList.add('dark-mode');
     toggle.checked = true;
@@ -126,5 +155,7 @@ function setupDarkModeToggle() {
     localStorage.setItem('darkMode', isDark);
   });
 }
+
+document.getElementById('load-more').addEventListener('click', () => renderPage(false));
 
 init();

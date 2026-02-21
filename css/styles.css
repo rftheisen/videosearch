@@ -168,6 +168,40 @@ iframe {
   transform: scale(1.15);
 }
 
+/* Load more */
+.load-more-wrapper {
+  text-align: center;
+  margin: 36px 0 20px;
+}
+
+#load-more {
+  padding: 12px 32px;
+  font-size: 0.95rem;
+  font-family: inherit;
+  font-weight: 500;
+  color: #0071e3;
+  background: transparent;
+  border: 1.5px solid #0071e3;
+  border-radius: 980px;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+#load-more:hover {
+  background: #0071e3;
+  color: #fff;
+}
+
+body.dark-mode #load-more {
+  color: #4da3ff;
+  border-color: #4da3ff;
+}
+
+body.dark-mode #load-more:hover {
+  background: #4da3ff;
+  color: #000;
+}
+
 /* Dark mode toggle */
 .dark-toggle {
   position: fixed;
